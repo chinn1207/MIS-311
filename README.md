@@ -21,9 +21,10 @@ The name of dataset is *06_Student_Performance*.
   
        + Average_score
 
-- The purpose of this dataset is to show the performance of students in 3 subjects: math, reading, writing. Besides that, it also show factors which are affect student's academic performance. 
+- The purpose of this dataset is to show the performance of students in 3 subjects: math, reading, writing. Besides that, it also show factors which are affect student's academic performance.
   
   ## 2. Data Cleaning
  The cleaning dataset is the dataset doesn't have missing value, duplicate 
  Firstly, check the missing value 
  + Choosing the whole dataset by using Crtl + A, then pressing Crtl + G. Click to Special... -> Blanks -> OK
+
