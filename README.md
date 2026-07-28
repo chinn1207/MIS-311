@@ -25,6 +25,19 @@ The name of dataset is *06_Student_Performance*.
   
   ## 2. Data Cleaning
  The cleaning dataset is the dataset doesn't have missing value, duplicate 
- Firstly, check the missing value 
- + Choosing the whole dataset by using Crtl + A, then pressing Crtl + G. Click to Special... -> Blanks -> OK
+ #### Firstly, checking the missing value 
+- Choosing the whole dataset by using Crtl + A, then pressing Crtl + G. Click to Special... -> Blanks -> OK
+- Missing values appear in the variable of parental_level_of_education and average_score
+
+`How to process`
+- In "parental_level_of_education". There are 3 missing values
+- In "average_score". There are 4 missing values. Because this is the average of 3 score that is math_score, reading_score, writing_score, so in Excel using the fuction `=AVERAGE(D2:F2)` to calucate again the average_score
+- After deal with missing value, checking the dataset again to make sure that no empty cells are missed. The result is: 
+<img width="1920" height="1080" alt="missing_value" src="https://github.com/user-attachments/assets/6133ffdd-125d-40eb-b33f-70684b59b6bb" />
+
+
+#### Secondly, checking duplicated rows
+<img width="1920" height="1080" alt="duplicate" src="https://github.com/user-attachments/assets/38e4ffe1-a3ce-47ee-8251-6d93e11c2442" />
+
+
 
