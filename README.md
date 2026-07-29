@@ -80,6 +80,7 @@ Students whose parents have bachelor's degree, master's degree tend to achieve h
 
 **Insight 2**: The histogram shows that the average scores of most students are concentrated in the middle range. Only a small percentage of students are in very low or very high scores. This indicates that overall academic results are quite balanced.
 
+The dataset after cleaning: [Cleaned Data](./06_Student Performance.xlsx)
 
 ## 4. Reference
 AlexJerabek. (2024). AVERAGE function | Microsoft Support. Microsoft.Com. https://support.microsoft.com/en-us/excel/functions/average-function
