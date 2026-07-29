@@ -61,7 +61,10 @@ Then, checking the dataset again to make sure that no empty cells are missed.
 
 ## 3. Descriptive Statistics 
 Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score column to average_score column -> OK (“Cách Sử Dụng Tính Năng Thống Kê Mô Tả (Descriptive Statistics) Trong Excel,” 2025). 
-- The descriptive statistic show the measures of central tendency (the mean, median, and mode), whereas measures of variability ( standard deviation, variance, minimum and maximum values, kurtosis, and skewness) (Hayes, 2024). 
+- The descriptive statistic show the measures of central tendency (the mean, median, and mode), whereas measures of variability ( standard deviation, variance, minimum and maximum values, kurtosis, and skewness) (Hayes, 2024).
+
+
+
 <img width="1171" height="363" alt="image" src="https://github.com/user-attachments/assets/8c1c3e72-09ff-4a0e-837e-c1df9874fc6e" />
 
 
@@ -71,7 +74,13 @@ Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score colum
 
 
 
+
+
+
 <img width="801" height="485" alt="image" src="https://github.com/user-attachments/assets/89445979-9855-41cd-957d-34dd531a4ea0" />
+
+
+
 
 
 
