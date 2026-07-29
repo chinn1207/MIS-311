@@ -32,14 +32,14 @@ The name of dataset is *06_Student_Performance*.
  #### Firstly, checking the missing values 
  `Method`
  
-- Choosing the whole dataset by using Crtl + A, then pressing Crtl + G. Click to Special... -> Blanks -> OK
+- Choosing the whole dataset by using Crtl + A, then pressing Crtl + G. Click to Special... -> Blanks -> OK (ThomasCoget, 2025)
 - Missing values appear in the variable of parental_level_of_education and average_score.
 
 `How to process`
 
      + In "parental_level_of_education". There are 3 missing values. Missing parental education values were replaced with "Unknown" to ensure integrity of data
      
-     + In "average_score". There are 4 missing values. Because this is the average of 3 score that is math_score, reading_score, writing_score, so in Excel using the fuction `=AVERAGE(D2:F2)` to calucate again the average_score.
+     + In "average_score". There are 4 missing values. Because this is the average of 3 score that is math_score, reading_score, writing_score, so in Excel using the fuction `=AVERAGE(D2:F2)` to calucate again the average_score (AlexJerabek, 2024).
 Then, checking the dataset again to make sure that no empty cells are missed. 
 
 `Result`
@@ -50,7 +50,7 @@ Then, checking the dataset again to make sure that no empty cells are missed.
 #### Secondly, checking duplicated rows
 `Method`
 
-- In excel: Data-> Remove duplicate.
+- In excel: Data-> Remove duplicate (AlexJerabek, 2024).
   
 `Result`
 
@@ -60,7 +60,7 @@ Then, checking the dataset again to make sure that no empty cells are missed.
 => After cleaning, the data has 199 students and 8 fields.
 
 ## 3. Descriptive Statistics 
-Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score column to average_score column -> OK.
+Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score column to average_score column -> OK (“Cách Sử Dụng Tính Năng Thống Kê Mô Tả (Descriptive Statistics) Trong Excel,” 2025). 
 - The descriptive statistic show the measures of central tendency (the mean, median, and mode), whereas measures of variability ( standard deviation, variance, minimum and maximum values, kurtosis, and skewness) (Hayes, 2024). 
 <img width="1171" height="363" alt="image" src="https://github.com/user-attachments/assets/8c1c3e72-09ff-4a0e-837e-c1df9874fc6e" />
 
@@ -81,5 +81,12 @@ Students whose parents have bachelor's degree, master's degree tend to achieve h
 **Insight 2**: The histogram shows that the average scores of most students are concentrated in the middle range. Only a small percentage of students are in very low or very high scores. This indicates that overall academic results are quite balanced.
 
 ## 4. Reference
+AlexJerabek. (2024). AVERAGE function | Microsoft Support. Microsoft.Com. https://support.microsoft.com/en-us/excel/functions/average-function
+
+AlexJerabek. (2024). Find and remove duplicates | Microsoft Support. Microsoft.Com. https://support.microsoft.com/en-us/excel/find-and-remove-duplicates
+
+Cách sử dụng tính năng Thống kê mô tả (Descriptive Statistics) trong Excel. (2025). In UniTrain. https://unitrain.edu.vn/cach-su-dung-tinh-nang-thong-ke-mo-ta-descriptive-statistics-trong-excel/
+
 Hayes, A. (2024). Descriptive statistics: Definition, overview, types, example. In Investopedia. https://www.investopedia.com/terms/d/descriptive_statistics.asp 
 
+ThomasCoget. (2025). How to Handle Missing Data in Excel A Practical Guide. In Getelyxai.com. ElyxAI. https://getelyxai.com/en/blog/how-to-handle-missing-data 
