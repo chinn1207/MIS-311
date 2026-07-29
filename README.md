@@ -65,7 +65,8 @@ Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score colum
 
 
 
-<img width="1171" height="363" alt="image" src="https://github.com/user-attachments/assets/8c1c3e72-09ff-4a0e-837e-c1df9874fc6e" />
+<img width="1153" height="404" alt="image" src="https://github.com/user-attachments/assets/b283bced-6848-4b01-a131-6ab8c3db4370" />
+
 
 
 
@@ -76,7 +77,7 @@ Data -> Data Analysis -> Descriptive Statistic -> Range is from math_score colum
 
 
 
-
+---
 <img width="801" height="485" alt="image" src="https://github.com/user-attachments/assets/89445979-9855-41cd-957d-34dd531a4ea0" />
 
 
